@@ -1,5 +1,6 @@
 # SYSTEM 12.	 FGL 5-bus test system, radial topology
 
+![image](https://github.com/fglongatt/FGL_Test_Systems/assets/16779213/9cafa01f-fa15-43a4-9159-8e6a330d1f22)
 
 ## USEFUL LINKS
 - Email: fglongatt@fglongatt.org
