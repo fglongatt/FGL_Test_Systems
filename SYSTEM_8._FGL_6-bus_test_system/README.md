@@ -7,6 +7,7 @@ This test system considers:
 - An (01) additional fixed capacitive reactive compensation is added at bus 6: Q<sub>c6</sub> = 10 MVAR.
 The test system consists of six (06) buses with three synchronous generators (G1, G3 and G5), two of the generators are working to provide constant voltage (G3 and G5) but the capacity to provide relative power is limited. There are five (05) lumped constant power loads (Load 2, Load 3, Load 4, Load 5 and Load 6). The system considers two voltage levels (115 kV and 34.5) for simplicity in the manual calculations in classroom activities.
 
+![image](https://github.com/fglongatt/FGL_Test_Systems/assets/16779213/9b0bc607-6418-4019-b8fd-a4a611c848c9)
 
 
 ## USEFUL LINKS
