@@ -1,6 +1,9 @@
 # SYSTEM 5.	FGL 5-bus Test system considering capacitive susceptance (ring)
 
 
+![image](https://github.com/fglongatt/FGL_Test_Systems/assets/16779213/d4cbc8c1-a9b4-4542-a362-42ca3d4f04c4)
+
+
 
 ## USEFUL LINKS
 - Email: fglongatt@fglongatt.org
