@@ -1,5 +1,5 @@
 # SYSTEM 4.	FGL 5-bus Test system considering Q limits
-The SYSTEM 4 FGL 5-bus test system considering the reactive power generation limits of the generators is a relatively simple topology but it can be used to introduce the use of generation controllers in the power flow solution. 
+The SYSTEM 4 FGL 5-bus test system considering the reactive power generation limits of the generators is a relatively simple topology but it can be used to introduce the use of generation controllers in the power flow solution. The SYSTEM 3 is an evolution of the SYSTEM 3.
 The test system consists of five buses with three synchronous generators (G1, G3 and G5), two of the generators are working to provide constant voltage (G3 and G5) but the capacity to provide relative power is limited: -40≤Q<sub>g3</sub>≤ 50 MVAr, and -40≤Q<sub>g5</sub>≤ 50 MVAr.
 There are two lumped constant power loads (Load 2 and Load 4). The system considers only one voltage level (115 kV) for simplicity in the manual calculations in classroom activities.
 
