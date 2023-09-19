@@ -2,9 +2,9 @@
 The FLG Test Systems is a family of test systems, initially developed by Francisco Gonzalez-Longatt in April 2007.
 The original FGL Test System consists of a family of 13 test systems representative of transmission and distribution systems and suitable for basic power system analysis (power flow) in the academic teaching and research context: 
 
-**SYSTEM 1.**	FGL 3-bus test system.
+- **SYSTEM 1.**	FGL 3-bus test system.
 
-**SYSTEM 2.**	FGL 3-bus test system with TAP.	
+- **SYSTEM 2.**	FGL 3-bus test system with TAP.	
 
 **SYSTEM 3.**	FGL 5-bus Test System.	
 
@@ -34,3 +34,14 @@ The original FGL Test System consists of a family of 13 test systems representat
 [1]	Stagg and El-Abiad. Computer Methods in Power Systems Analysis, McGraw-Hill, 1981.
 
 [2]	Jose. R. Marti. Análisis de Sistemas de Potencia: Tercera Sección: Capitulo 1. Estudios de Flujo de Load en Sistemas de Potencia. Apuntes de Clases. Universidad Central de Venezuela. December 1975.
+
+
+## USEFUL LINKS
+- Email: fglongatt@fglongatt.org
+- GitHub: https://github.com/fglongatt 
+- ResearchGate (project repository): https://www.researchgate.net/profile/Francisco_Gonzalez-Longatt 
+- YouTube Channel (project repository): Https://www.youtube.com/user/fmglongatt
+- LinkedIn: https://www.linkedin.com/in/francisco-gonzalez-longatt/
+
+
+
