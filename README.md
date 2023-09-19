@@ -32,4 +32,5 @@ The original FGL Test System consists of a family of 13 test systems representat
 ## REFERENCES:
 
 [1]	Stagg and El-Abiad. Computer Methods in Power Systems Analysis, McGraw-Hill, 1981.
+
 [2]	Jose. R. Marti. Análisis de Sistemas de Potencia: Tercera Sección: Capitulo 1. Estudios de Flujo de Load en Sistemas de Potencia. Apuntes de Clases. Universidad Central de Venezuela. December 1975.
