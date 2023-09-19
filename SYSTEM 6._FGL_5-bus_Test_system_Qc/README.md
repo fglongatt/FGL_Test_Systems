@@ -1,5 +1,6 @@
 # SYSTEM 6.	FGL 5-bus Test system considering reactive power compensation
 
+![image](https://github.com/fglongatt/FGL_Test_Systems/assets/16779213/80ebb0c0-e352-41e5-9cff-b44cbbf67cf2)
 
 
 
