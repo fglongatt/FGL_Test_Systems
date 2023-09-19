@@ -3,8 +3,8 @@ The FLG Test Systems is a family of test systems, initially developed by Francis
 The original FGL Test System consists of a family of 13 test systems representative of transmission and distribution systems and suitable for basic power system analysis (power flow) in the academic teaching and research context: 
 
 - **SYSTEM 1.**	FGL 3-bus test system.
-- **SYSTEM 2.**	FGL 3-bus test system with TAP.	
-- **SYSTEM 3.**	FGL 5-bus Test System.	
+- **SYSTEM 2.**	FGL 3-bus test system with TAP.
+- **SYSTEM 3.**	FGL 5-bus Test System.
 - **SYSTEM 4.** FGL 5-bus Test system considering Q limits.	
 - **SYSTEM 5.**	FGL 5-bus Test system considering capacitive susceptance (ring).	
 - **SYSTEM 6.**	FGL 5-bus Test system considering reactive power compensation.	
