@@ -1,5 +1,5 @@
 # SYSTEM 6.	FGL 5-bus Test system considering reactive power compensation
-The SYSTEM 6 FGL 5-bus test system is a clear evolution of the SYSTEM 5, it considers local and fixed reactive compensation (Qc)
+The SYSTEM 6 FGL 5-bus test system is a clear evolution of the SYSTEM 5, it considers local and fixed reactive compensation (Q<sub>c</sub>)
 
 it considers the reactive power generation limits of the generators (Q<sub>g</sub>), there is no capacitive susceptance on the transmission line (B), 
 
